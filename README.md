@@ -3,7 +3,7 @@
 # 🐍 LeetCode Solutions
 
 [![Language](https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/leetcode-solutions?style=for-the-badge)](https://github.com/YOUR_USERNAME/leetcode-solutions)
+[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/leetcode-solutions?style=for-the-badge)](https://github.com/rafiul254/Leetcode_problem-solve)
 
 </div>
 
